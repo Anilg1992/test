@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c41589-0058-4fe2-a1d2-576449ed2d34" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$Unittests_for_Defination_Defination.coverage" NAME="Unittests for Defination.Defination Coverage Results" MODIFIED="1540140989311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StepDefination" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$feature1_feature.coverage" NAME="feature1.feature Coverage Results" MODIFIED="1540321942921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$google_feature_run_a_simple_test.coverage" NAME="google.feature:run a simple test Coverage Results" MODIFIED="1540138983458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$Behave.coverage" NAME="Behave Coverage Results" MODIFIED="1540138706251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$feature1_feature_verifying_search_box_is_present_in_Google_home_page.coverage" NAME="feature1.feature:verifying search box is present in Google home page Coverage Results" MODIFIED="1540204106130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$feature1_feature_verifying_google_logo.coverage" NAME="feature1.feature:verifying google logo Coverage Results" MODIFIED="1540146283001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$google_feature.coverage" NAME="google.feature Coverage Results" MODIFIED="1540200540643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$feature1_feature_verifying_search_box_is_present_in_Google_home_page__1_.coverage" NAME="feature1.feature:verifying search box is present in Google home page (1) Coverage Results" MODIFIED="1540197730820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/True_Fit_Automation_Framework$feature1_feature_verifying_google_logo_present.coverage" NAME="feature1.feature:verifying google logo present Coverage Results" MODIFIED="1540201935004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1931973777">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Automation" value="3" />
+          <entry key="feature" value="5" />
+          <entry key="log" value="1" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="5" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="1006" />
+          <entry key="py" value="1319" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="1006" />
+          <entry key="Python" value="1319" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1461328380">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="1" />
+          <entry key="py" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="1" />
+          <entry key="Python" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/feature1.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/steps/Defination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files (x86)/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-444">
+              <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>;</find>
+      <find>config</find>
+      <find>find</find>
+      <find>find_element</find>
+      <find>I am clicking search button without entering anything on textbox</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Utility/CustomLogger.py" />
+        <option value="$PROJECT_DIR$/Utility/SeleniumDriver.py" />
+        <option value="$PROJECT_DIR$/TestCases/Test.py" />
+        <option value="$PROJECT_DIR$/features/google.feature.py" />
+        <option value="$PROJECT_DIR$/Utility/TestCase.py" />
+        <option value="$PROJECT_DIR$/Features/google.feature" />
+        <option value="$PROJECT_DIR$/features/google.feature" />
+        <option value="$PROJECT_DIR$/StepDefination/Defination.py" />
+        <option value="$PROJECT_DIR$/features/feature1.feature" />
+        <option value="$PROJECT_DIR$/features/steps/Defination.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="783" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>GherkinBrokenTableInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="True_Fit_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="True_Fit_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="True_Fit_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="True_Fit_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="True_Fit_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="True_Fit_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramesh-Shwetha\PycharmProjects\True_Fit_Automation_Framework\features\steps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Behave.feature1.feature">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="True_Fit_Automation_Framework" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="feature1.feature" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="True_Fit_Automation_Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/feature1.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feature1.feature:verifying search box is present in Google home page" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="True_Fit_Automation_Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Program Files\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/feature1.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="verifying search box is present in Google home page" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feature1.feature:verifying search box is present in Google home page (1)" type="PyLettuceRunConfigurationType" factoryName="Lettuce" temporary="true">
+      <module name="True_Fit_Automation_Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/feature1.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="2" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="True_Fit_Automation_Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Behave.feature1.feature" />
+      <item itemvalue="Behave.feature1.feature:verifying search box is present in Google home page" />
+      <item itemvalue="Lettuce.feature1.feature:verifying search box is present in Google home page (1)" />
+      <item itemvalue="Python.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Lettuce.feature1.feature:verifying search box is present in Google home page (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c41589-0058-4fe2-a1d2-576449ed2d34" name="Default" comment="" />
+      <created>1540041824193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540041824193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="feature1_feature - 2018.10.23 at 10h 22m 56s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 10h 23m 23s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 10h 24m 36s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 10h 25m 24s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 10h 25m 45s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 10h 27m 12s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 11h 25m 41s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 11h 27m 37s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 11h 42m 02s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+    <history-entry file="feature1_feature - 2018.10.23 at 15h 12m 34s.xml">
+      <configuration name="feature1.feature" configurationId="PyBehaveRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49167928" weight="0.37188613" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49702382" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49702382" weight="0.4822064" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4871407" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50832075" side_tool="true" weight="0.3289689" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Utility/CustomLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/features/google.feature.py" />
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/behave/runner.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/behave_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepDefination/Defination.py" />
+    <entry file="file://$PROJECT_DIR$/Automation">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/TestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="85" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/traceback.py" />
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/behave/step_registry.py" />
+    <entry file="file://$PROJECT_DIR$/Utility/WrapperDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="7" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/steps/Automation" />
+    <entry file="file://$PROJECT_DIR$/features/steps/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/google.feature" />
+    <entry file="file://$PROJECT_DIR$/features/feature1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-444">
+          <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/steps/Defination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
